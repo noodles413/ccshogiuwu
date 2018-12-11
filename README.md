@@ -1,7 +1,10 @@
 # ccshogiuwu
 ascii chinese checkers
+
 Broken garbage copy pasted from stack overflow.
+
 Will resume development after I finish reading The C Programming Language
+
 ```
             /:::
             ;  ':/. _
