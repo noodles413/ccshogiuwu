@@ -2,6 +2,7 @@
 ascii chinese checkers
 Broken garbage copy pasted from stack overflow.
 Will resume development after I finish reading The C Programming Language
+```
             /:::
             ;  ':/. _
             `     -√
@@ -67,3 +68,4 @@ Will resume development after I finish reading The C Programming Language
                                                                                           .:  ♪
                                                                                            :__
                                                                                             ·u·
+```
